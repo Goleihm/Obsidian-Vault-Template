@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "NoteDate": "datetime",
+    "genre": "multitext",
+    "author": "multitext",
+    "type": "multitext",
+    "Annotations": "multitext",
+    "TimeOfWriting": "datetime",
+    "Extending Documents": "multitext"
+  }
+}

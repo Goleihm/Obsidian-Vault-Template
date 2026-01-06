@@ -1,0 +1,15 @@
+{
+  "accentColor": "#5ceaf5",
+  "cssTheme": "Retroma",
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSize": 30,
+  "interfaceFontFamily": "Goudy Medieval Alternate,8-bit Limit (BRK)",
+  "textFontFamily": "Typewriter,Lunchtime Doubly So,Return of Ganon,Terminal Grotesque",
+  "enabledCssSnippets": [
+    "dashboard"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": false,
+  "monospaceFontFamily": "8-bit Limit (BRK)"
+}

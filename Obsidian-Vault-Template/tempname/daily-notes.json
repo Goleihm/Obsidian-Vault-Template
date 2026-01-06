@@ -1,0 +1,6 @@
+{
+  "template": "templates/Daily Temp.",
+  "autorun": true,
+  "folder": "Root",
+  "format": "dddd, Do of MMMM, YYYY"
+}

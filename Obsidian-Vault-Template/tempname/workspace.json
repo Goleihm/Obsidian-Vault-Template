@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "4c9ab2a7ad1b7538",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e7403875b8edf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217c145f1dc0dfa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "63de9747cbcdf48a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Annotation/🎬 Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎬 Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidian"
+            }
+          },
+          {
+            "id": "1261e39754ec30c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          },
+          {
+            "id": "21d78d95d4ca78fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Root/Library Directory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Library Directory"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4c6e73f285749cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8f6ad9a09fad94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a600c66a872d895",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d83aad5b4dd2cd95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "name",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd2955f5873400d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32cfee69204ee087",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4857e874a490a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27e2515a0c6df338",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Root/Library Directory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Library Directory"
+            }
+          },
+          {
+            "id": "417404279c573d40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Root/TODO (3-31-25).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO (3-31-25)"
+            }
+          },
+          {
+            "id": "2c050a7846f09305",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f8b462b8d94d7d95",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e18510c6f098983",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Library/text/10.1525_9780520932920-005.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10.1525_9780520932920-005"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "21d78d95d4ca78fa",
+  "lastOpenFiles": [
+    "Root/collect.md",
+    "Root/Library Directory.md",
+    "Root/tagcollect.md",
+    "Root/Untitled.md",
+    "Library/Annotation/(OV) 📕The Book Title.md",
+    "Root/Index.md",
+    "Root/Introduction.md",
+    "Library/Annotation/🎬 Comprehensive Markdown Crash Course - Fundementals, Extensions, & Obsidian.md",
+    "Library/Annotation/(OV) 📕test.md",
+    "templates/dataview template.md",
+    "Root/TODO-View.md",
+    "Root/Brainstorm.md",
+    "templates/College Course Template.md",
+    "Library/apoc.md",
+    "Library/Apoc.md",
+    "templates/MediaNoteTemplate/Art Template.md",
+    "Library/Apoc Lit.md",
+    "Library/apocolyptic literature.md",
+    "templates/MediaNoteTemplate/Literature Template.md",
+    "templates/Class-Calender-Note.md",
+    "templates/(Every R,T) Apocalyptic Lit.md",
+    "Root/Log Dataview.md",
+    "Library/Annotation/Markdown.md",
+    "Library/Annotation/(OV) 📕The Last Messiah.md",
+    "Library/Annotation/(OV) 📕Limits to Growth - 30 Year Update.md",
+    "Root/Thesis - Lecture 2.md",
+    "Library/text/ENG 190 REVISED Syllabus Fall 2024.pdf",
+    "Library/text/The_Limits_to_Growth_-_Donella_H_Meadows.pdf",
+    "Library/text/OAP_Zapffe_Last_Messiah.pdf",
+    "Library/text/BLINDNESS_-_Jose_Jose_Saramago.pdf",
+    "Library/text/Close_to_the_Knives_-_David_Wojnarowicz.pdf",
+    "Library/text/_OceanofPDF.com_There_There_-_Tommy_Orange.pdf",
+    "Library/text/Viktor_Sklovski_Art_as_Technique.pdf",
+    "Library/text/Samuel Eliot Morison _ AHA.pdf",
+    "Library/text/Mutual_Aid_-_Dean_Spade.pdf",
+    "Library/text/_OceanofPDF.com_White_Noise_-_Don_Delillo.pdf"
+  ]
+}
