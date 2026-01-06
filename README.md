@@ -1,4 +1,3 @@
-In order for the config / plugins to work, rename 'tempname' to '.obsidian' . Github wouldn't let me upload the original '.obsidian' file because it was a hidden file. After that, simply open the folder just above '.obsidian' as your vault(named 'Obsidian-Vault-Template', not 'main'
+In order for the config / plugins to work, rename 'tempname' to '.obsidian' . Github wouldn't let me upload the original '.obsidian' file because it was a hidden file. After that, simply open the folder just above '.obsidian' as your vault(named 'Obsidian-Vault-Template', not 'main'). You can move this folder wherever you'd like, open obsidian, and then tell obsidian where your vault location is. You can also rename the vault ofc.
 
-None of the plugins are written, created, or affiliated with me. I just use them. All the work I did was exclusively in configuring hotkeys and creating basic note templates.
-
+None of the plugins are written, created, or affiliated with me. I just use them. The only work I've done is exclusively in configuring hotkeys and creating basic note templates.
